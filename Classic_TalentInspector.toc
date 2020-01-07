@@ -1,0 +1,8 @@
+## Interface: 11303
+## Title: |cff00ccffClassic:|r Talent Inspector
+## Notes: Shows talent tree of inspected players.
+## Author: Myzrael-US:Hole
+## Version: 1
+## X-Website: https://github.com/rtomson/Classic_TalentInspector
+
+Classic_TalentInspector.xml
